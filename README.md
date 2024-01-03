@@ -37,7 +37,7 @@ What it does
 First, install dependencies   
 ```bash
 # clone project   
-git clone https://github.com/sanjar-techie/lesion-classification.git
+git clone https://github.com/jonesh77/lesion-classification.git
 
 # install project   
 cd lesion-classification
@@ -59,7 +59,7 @@ Download the dataset like so:
 ! pip install opendatasets --upgrade
 import opendatasets as od
 
-dic = {"username":"sanjartechie","key":"82c494b2e40d1e481393dcf1d0e797d8"} # kaggle.jason
+dic = {"username":"jonesh77","key":"82c494b2e40d1e481393dcf1d0e797d8"} # kaggle.jason
 
 data_dir = '/content'
 data_url = 'https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000/download'
